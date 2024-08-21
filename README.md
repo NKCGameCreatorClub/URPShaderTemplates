@@ -1,0 +1,2 @@
+# URPShaderTemplates
+Shader書く時のテンプレートを生成する
